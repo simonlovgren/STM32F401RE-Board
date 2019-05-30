@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 503182-1852)(type Legacy)(uri /home/adam/git/STM32F401RE-Board/kicad/project_assets/footprints/503182-1852.mod)(options "")(descr ""))
+)
