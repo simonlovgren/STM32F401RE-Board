@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name 503182-1852)(type Legacy)(uri ${KIPRJMOD}/../project_assets/footprints/503182-1852.mod)(options "")(descr ""))
+  (lib (name ModdedConnectors)(type KiCad)(uri "${KIPRJMOD}/../project_assets/footprints/USB connectors.pretty")(options "")(descr ""))
 )
